@@ -1,4 +1,4 @@
-package oprradoreslogicos;
+package operadoreslogicos;
 
 public class Ifelse {
 	
